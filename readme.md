@@ -1,0 +1,1 @@
+These tasks are implemented based on KISS principle ;)
